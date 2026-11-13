@@ -2,3 +2,20 @@
 __pycache__/
 .DS_Store
 .streamlit/secrets.toml
+
+# Python virtual environments
+.venv/
+.venv-1/
+backend/.venv/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store
